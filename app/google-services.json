@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59268858261",
+    "firebase_url": "https://cameraxtestscanner.firebaseio.com",
+    "project_id": "cameraxtestscanner",
+    "storage_bucket": "cameraxtestscanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59268858261:android:ef0f4bddf2e1bc8598b69c",
+        "android_client_info": {
+          "package_name": "com.usl.camerax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59268858261-ngu5fsh9bqsoh2cvu9j1e5e94s079nrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usl.camerax",
+            "certificate_hash": "a7b42cd58021113732bbdcf0d7a9f8fcd2900368"
+          }
+        },
+        {
+          "client_id": "59268858261-3iqu2nm2ib65hkp39jrab5fkp7b1npc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_am8hW3O5irycydXm-6-s77z7v7GiWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59268858261-3iqu2nm2ib65hkp39jrab5fkp7b1npc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
